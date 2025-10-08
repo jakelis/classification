@@ -1,0 +1,9 @@
+#ignore virtual environment
+.venv/
+
+#ignore python cache
+__pycache__/
+
+#ignore Jupyter checkpoints
+.ipynb_checkpoints/
+

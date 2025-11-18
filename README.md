@@ -44,7 +44,7 @@ Recall = TP / (TP + FN)
 F1 Score =  2 * (precision * recall) / (precision + recall)
 
 Confusion matrix illustration:
-![binary confusion matrix](confusion_matrix.png)
+![binary confusion matrix](confusion_matrix.jpg)
 
 ### Recall-Precision Tradeoff 
 When doing classification, there must be some kind of threshold to determine what the outputs are.
